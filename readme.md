@@ -24,19 +24,20 @@ Before you begin, ensure you have the following installed:
 unzip and open terminal in Root folder
 
 ✅ 1. Install Dependencies
-Run this in your terminal (in the root directory of the project):
-npm install
+Run this in your terminal (in the root directory of the project):  
+"npm install"   
 This installs all dependencies listed in package.json.
 
 ✅ 2. Install Expo CLI (if not installed)
-If you haven't installed it globally:
-npm install -g expo-cli
+ If you haven't installed it globally:   
+ "npm install -g expo-cli"
 
-✅ 3. Start the Project
-npx expo start
-This will launch the Expo development server. You can then:
+✅ 3. Start the Project:
+   npx expo start    
+   This will launch the Expo development server. You can then:
 
-Open it in your browser.  ->  Scan the QR code in the Expo Go app (Android/iOS). ->Launch an emulator (if set up)
+
+  Open it in your browser.  ->  Scan the QR code in the Expo Go app (Android/iOS). ->Launch an emulator (if set up)
 
 
 """"""""""""""""""
