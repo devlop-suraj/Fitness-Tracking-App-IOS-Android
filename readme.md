@@ -45,7 +45,7 @@ Method 2 (Pro wala tarika)
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/devlop-suraj/Fitness-Tracking-App-IOS-Android
 cd fitness-tracking-app
 ```
 
