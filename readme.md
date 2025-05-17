@@ -33,11 +33,11 @@ This installs all dependencies listed in package.json.
  "npm install -g expo-cli"
 
 ✅ 3. Start the Project:
-   npx expo start    
+   "npx expo start"    
    This will launch the Expo development server. You can then:
 
 
-  Open it in your browser.  ->  Scan the QR code in the Expo Go app (Android/iOS). ->Launch an emulator (if set up)
+  Open it in your browser or it will show qr code in your terminal itself  ->  Scan the QR code in the Expo Go app (Android/iOS). -> Enjoy app
 
 
 """"""""""""""""""
